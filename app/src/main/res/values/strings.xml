@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="Gk">General knowledge</string>
+    <string name="music">Music</string>
+    <string name="History">History</string>
+    <string name="sport">Sport</string>
+    <string name="Geography">Geography</string>
+    <string name="art">Art and Literature</string>
+    <string name="mathematics">Mathematics</string>
+    <!-- GK Questions -->
+    <string name="gkq1">Which is the country with second largest Population?</string>
+    <string name="gkq2">Which is the largest river in india?</string>
+    <string name="gkq3">What is the capital of Russia?</string>
+    <string name="gkq4">How many colors are there in a rainbow?</string>
+    <string name="gkq5">How many consonants are there in the English alphabet?</string>
+    <string name="gkq6">How many sides are there in a pyramid?</string>
+    <string name="gkq7">What is a baby frog called?</string>
+    <string name="gkq8">Where does a pig live?</string>
+    <string name="gkq9">Which is the largest mammal?</string>
+    <string name="gkq10">How many days are there in a leap year?</string>
+    <!-- Mathematics Questions -->
+    <string name="mq1">How many lines can be drawn through two points?</string>
+    <string name="mq2">Name a triangle whose two sides are equal</string>
+    <string name="mq3">What is the unit of volume? </string>
+    <string name="mq4">How many sides are present in two squares?</string>
+    <string name="mq5">6-(5-3+10)=</string>
+    <string name="mq6">What is the next prime number after 23?</string>
+    <string name="mq7">Find the sum of first five odd numbers</string>
+    <string name="mq8">Repeated addition is known as</string>
+    <string name="mq9">How many digit are there in thousand</string>
+    <string name="mq10">Natural numbers starts from</string>
+    <!-- Sports Questions -->
+    <string name="sportq1">How many maximum players consist in a cricket squad?</string>
+    <string name="sportq2">What is the width of the goal post?</string>
+    <string name="sportq3">What is the height of the Badminton Court?</string>
+    <string name="sportq4">How many points does a player get for a try in rugby?</string>
+    <string name="sportq5">Ronaldino belongs to which Sport? </string>
+    <string name="sportq6">How many players play in BasketBall?</string>
+    <string name="sportq7">How many colors are in Olympic Ring?</string>
+    <string name="sportq8">Which is the National sport of Australia?</string>
+    <string name="sportq9">In which country did the Olympic games originate?</string>
+    <string name="sportq10">Which sport is also known as ping pong?</string>
+    <!-- Music Questions -->
+    <string name="musicq1">Which Music Instrument consists of wooden struck by a mallet? </string>
+    <string name="musicq2">Which of the following Musical instuments is of Indian origin.</string>
+    <string name="musicq3">Which Playback signer has been awarded the Bharat Ratna, the nations highest civilian honour?</string>
+    <string name="musicq4">In which country was Justin Bieber born?</string>
+    <string name="musicq5">How many strings does a normal guitar have?</string>
+    <string name="musicq6">Which of the following is a part of a Ironbase?</string>
+    <string name="musicq7">Robbie Williams is a famous?</string>
+    <string name="musicq8">Pop music is short for what</string>
+    <string name="musicq9">How many strings does an violin have?</string>
+    <string name="musicq10">What is a high male voice also called?</string>
+    <!-- History Questions -->
+    <string name="histq1">Which of the following is the correct abbreviation of BC? </string>
+    <string name="histq2">When was Vikrama era began?</string>
+    <string name="histq3">When did Hieun Tsang visited India ?</string>
+    <string name="histq4">In 1612 AD, English fleet beat Portuguese at the battle of _______</string>
+    <string name="histq5">How many states were divided in the Northwestern India during Alexanders Invasion?</string>
+    <string name="histq6">Who among the following open the land between India and Europe</string>
+    <string name="histq7">Which of the following inscription reveals info about silk weavers guild?</string>
+    <string name="histq8">The Jahaz-Mahal of Mandu was built by Whom? </string>
+    <string name="histq9">When did India got the Independence?</string>
+    <string name="histq10">Chand prodhyot was rules of which ancient republic?</string>
+    <!-- Art&Literature Questions -->
+</resources>

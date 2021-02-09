@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Submitted Successfully !!!"
+            android:textSize="30sp"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/black"/>
+
+        <ImageView
+            android:id="@+id/scoreimg"
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            android:layout_margin="30dp"/>
+
+        <TextView
+            android:id="@+id/score"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="You Scored"
+            android:textSize="30sp"
+            android:textColor="@color/colorPrimaryDark"/>
+
+        <Button
+            android:id="@+id/home"
+            android:layout_width="120dp"
+            android:layout_height="70dp"
+            android:background="@drawable/swiggygradient"
+            android:text="Home"
+            android:textSize="30sp"
+            android:layout_marginVertical="100px"/>
+</LinearLayout>

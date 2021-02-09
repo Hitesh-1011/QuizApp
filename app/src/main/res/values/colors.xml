@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fff</color>
+    <color name="colorPrimaryDark">#fc8019</color>
+    <color name="black">#000</color>
+    <color name="white">#fff</color>
+    <color name="gk">#fac408</color>
+    <color name="gkbgcolor">#fac408</color>
+    <color name="musicbgcolor">#ff150a</color>
+    <color name="historybgcolor">#cc6201</color>
+    <color name="sportbgcolor">#ff9227</color>
+    <color name="geography">#205f6c</color>
+    <color name="ArtandLiteracy">#ac1d91</color>
+    <color name="mathematicsbgcolor">#5fbcc1</color>
+</resources>
